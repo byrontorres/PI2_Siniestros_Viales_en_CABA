@@ -1,2 +1,3 @@
-# PI2_Siniestros_Viales_en_CABA
-El desarrollo se centra en utilizar análisis de datos para abordar el problema de los siniestros viales en  la Ciudad Autónoma de Buenos Aires (CABA), proporcionando información clave para la toma de decisiones por parte de las autoridades locales.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26cdddb0903ed7afd4ef9243f635526ada78759db07940e3ac1eec93a2ae825b
+size 286
